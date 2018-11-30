@@ -1,7 +1,6 @@
 {
-  "name": "bs4",
+  "name": "gulp_bootstrap4",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -20,5 +19,14 @@
   "devDependencies": {
     "gulp-sass": "^4.0.2",
     "node-sass": "^4.10.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pankajgit/gulp_bootstrap4.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pankajgit/gulp_bootstrap4/issues"
+  },
+  "homepage": "https://github.com/pankajgit/gulp_bootstrap4#readme",
+  "description": ""
 }
