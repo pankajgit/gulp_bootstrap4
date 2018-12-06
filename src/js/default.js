@@ -25,12 +25,7 @@ function cardHandler(e){
     matrixHandler.appendChild(card);
 }
 
-// var cart = document.createElement('div');
-// cart.className = "card";
-// var textnode = document.createTextNode("Water");
-// cart.appendChild(textnode);                        
-// console.log(cart);
-// matrixHandler.appendChild(cart);
+
 
 
 
