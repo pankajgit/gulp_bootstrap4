@@ -1,2 +1,11 @@
 body {
   background: #ccc; }
+
+* {
+  box-sizing: border-box; }
+
+.matrixHandler {
+  position: relative;
+  width: calc(100%-20px);
+  min-height: 50px;
+  border: 1px solid #333; }
